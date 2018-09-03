@@ -1,0 +1,2 @@
+"RUN CABAL REPL"
+:l src/Reduce.hs src/Main.hs
